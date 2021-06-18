@@ -1,0 +1,20 @@
+com.fingersoft.hillclimb, rcN
+com.gameloft.android.ANMP.GloftA8HM, rcN, acY
+com.skgames.trafficrider, rcN
+com.ea.games.r3_row, rcN
+com.skgames.trafficracer, rcN
+com.ansangha.drdriving, rcN
+com.ea.game.nfs14_row, rcN
+com.rovio.angrybirdsgo, rcN
+com.fingersoft.hcr2, rcN
+com.aim.racing, rcN
+com.topfreegames.bikeracefreeworld, rcN
+com.creativemobile.DragRacing, rcN
+com.vectorunit.purple.googleplay, rcN
+com.julian.fastracing, rcN
+com.slippy.linerusher, rcN
+com.combineinc.streetracing.driftthreeD, rcN
+com.wordmobiles.bikeRacing, rcN
+com.droidhen.game.racingmoto, rcN
+com.ansangha.drparking4, rcN
+com.wordsmobile.RealBikeRacing, rcN

@@ -1,0 +1,20 @@
+com.tocaboca.tocakitchen2, rcN
+jp.co.ofcr.cm00, rcN, acY
+com.sinyee.babybus.shopping, rcN
+com.edujoy.masha.games, rcN
+air.com.peppapig.paintbox, rcN
+com.sinyee.babybus.tailor, rcN
+com.gokids.transportbuilding, rcN
+com.razmobi.monstertrucks2, rcN
+com.color.mandala, rcN
+com.tocaboca.tocalifeworld, rcN
+mytown.home, rcN
+com.libiitech.princesssalon, rcN
+com.lego.duplo.trains, dni
+com.pepiplay.pepihome, rcN
+com.PepiPlay.PepiShopping, rcN
+com.sinyee.babybus.care, rcN
+com.sinyee.babybus.restaurant, rcN
+com.PepiPlay.KingsCastle, rcN
+com.GamesForKids.Mathgames.MultiplicationTables, rcN
+com.sinyee.babybus.drinks, rcN

@@ -1,0 +1,20 @@
+com.twitter.android, rcN, acY
+com.google.android.apps.magazines, rcN
+flipboard.boxer.app, dni
+flipboard.app, rcN, acY
+com.eterno, rcN, acY
+com.uc.iflow, dni
+com.mobilesrepublic.appy, dni
+com.newsdog, rcN, acY
+com.opera.app.news, dni
+in.AajTak.headlines, rcN, acY
+com.til.timesnews, rcN, acY
+com.sony.nfx.app.sfrc, rcN
+com.htc.launcher, dni
+com.metropcs.metrozone, dni
+com.zinio.mobile.android.reader, rcN, acY
+com.reddit.frontpage, rcN, acY
+com.toi.reader.activities, rcN, acY
+com.quora.android, rcN, acY
+com.waveline.nabd, rcN, acY
+id.co.babe, rcN, acY

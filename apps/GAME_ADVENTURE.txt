@@ -1,0 +1,20 @@
+com.roblox.client, rcN, acY
+com.nianticlabs.pokemongo, rcY
+com.prettysimple.criminalcaseandroid, rcN, acY
+com.explorationbase.ExplorationLite, rcN
+com.gameloft.android.ANMP.GloftIVHM, rcN
+com.playmini.miniworld, rcN
+com.fingersoft.benjibananas, rcN
+com.tellurionmobile.realmcraft, rcN
+free.os.jump.superbros.adventure.world, rcN
+com.igoldtech.streetchaser, rcN
+com.superbinogo.jungleboyadventure, rcN
+com.devsisters.CookieRunForKakao, dni
+com.tinyco.potter, rcN, acY
+com.frogmind.badland, rcN
+com.naturalmotion.clumsyninja, rcN
+com.telltalegames.walkingdead100, rcN
+com.glu.stardomkim, rcN
+com.g5e.hiddencity.android, rcN
+com.tinyco.familyguy, rcN
+com.rtsoft.growtopia, rcN, acY

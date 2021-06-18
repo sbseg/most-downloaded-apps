@@ -1,0 +1,20 @@
+com.ubercab, rcN, acY
+com.waze, rcN, acY
+com.grabtaxi.passenger, rcN, acY
+com.olacabs.customer, rcN, acY
+com.sygic.aura, rcN, acY
+com.taxis99, rcN, acY
+com.tranzmate, rcN
+ru.yandex.taxi, rcN
+ru.yandex.yandexmaps, rcN
+com.drivemode, dni
+sinet.startup.inDriver, rcN, acY
+com.careem.acma, rcN, acY
+com.grabtaxi.driver2, rcN
+com.mapfactor.navigator, rcN
+com.rapido.passenger, rcN, acY
+br.com.easytaxi, rcN, acY
+com.here.app.maps, rcN, acY
+com.cuvora.carinfo, rcN, acY
+com.ubercab.uberlite, rcN, acY
+ee.mtakso.client, rcN, acY

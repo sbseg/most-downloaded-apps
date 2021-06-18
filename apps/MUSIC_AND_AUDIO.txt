@@ -1,0 +1,20 @@
+com.google.android.music, rcN
+com.spotify.music, rcN, acY
+com.sec.android.app.music, dni
+com.tencent.ibg.joox, dni
+com.soundcloud.android, rcN, acY
+com.smule.singandroid, rcN, acY
+com.shazam.android, rcN, acY
+com.gaana, rcN, acY
+com.pandora.android, dni
+com.jio.media.jiobeats, rcN, acY
+deezer.android.app, rcN, acY
+com.studiosol.palcomp3, rcN, acY
+com.springwalk.mediaconverter, rcN
+tunein.player, rcN, acY
+com.amazon.mp3, rcN, acY
+com.dywx.larkplayer, rcN
+com.bsbportal.music, dni
+com.google.android.apps.youtube.music, rcN
+com.starmakerinteractive.starmaker, rcN
+com.melodis.midomiMusicIdentifier.freemium, rcN

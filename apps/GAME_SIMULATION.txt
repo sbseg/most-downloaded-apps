@@ -1,0 +1,20 @@
+es.socialpoint.DragonCity, rcN
+com.ea.games.simsfreeplay_row, rcN
+com.fungames.blockcraft, rcN
+com.mgc.miami.crime.simulator.two, rcN
+com.ea.game.simcitymobile_row, rcN
+com.miniclip.plagueinc, rcN
+com.episodeinteractive.android.catalog, rcN
+com.fluffyfairygames.idleminertycoon, rcN
+com.gameloft.android.ANMP.GloftDOHM, rcN
+com.ludia.jurassicworld, rcN, acY
+com.ovilex.bussimulator2015, rcN
+com.ea.gp.simsmobile, rcN
+com.ovilex.eurotruckdriver, rcN
+com.clean.road, rcN
+com.giantssoftware.fs14, rcN
+com.secretexit.turbodismount, rcN
+com.i6.FlightSimulatorAirplane3D, rcN
+com.zuuks.bus.simulator.ultimate, rcN, acY
+com.gameloft.android.ANMP.GloftDYHM, rcN
+com.parking.game, rcN

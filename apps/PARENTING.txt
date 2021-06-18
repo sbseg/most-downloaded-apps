@@ -1,0 +1,20 @@
+com.babycenter.pregnancytracker, rcN, acY
+com.hp.pregnancy.lite, rcY
+org.findmykids.app, rcN
+com.oubapps.po.ch, rcN
+com.becloser, rcN, acY
+com.zoemob.gpstracking, rcN, acY
+com.fsp.android.h, rcN, acY
+com.healofy, rcN
+com.rommanapps.children_police, dni
+com.dokdoapps.mybabypiano, rcN
+com.tickledmedia.ParentTown, rcN, acY
+us.mitene, rcN, acY
+au.com.penguinapps.android.babyfeeding.client.android, rcN
+com.liveyap.timehut, rcN, acY
+com.realdream.kidspolice_sp, rcN
+com.urbandroid.babysleep, rcN
+com.wachanga.babycare, rcN, acY
+com.amila.parenting, rcN
+com.wachanga.pregnancy, rcN
+com.screentime.rc, rcN, acY

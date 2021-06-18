@@ -1,0 +1,20 @@
+com.google.android.apps.books, rcN
+wp.wattpad, rcN, acY
+com.sirma.mobile.bible.android, rcN, acY
+com.audible.application, rcN, acY
+com.amazon.kindle, rcN, acY
+org.wikipedia, rcN, acY
+com.nhn.android.search, rcN, acY
+com.google.android.stardroid, rcN
+com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish, rcN
+org.jw.jwlibrary.mobile, rcN
+br.biblia, rcN
+com.andi.alquran.id, rcN
+com.dictionary, rcN
+com.bestweatherfor.bibleoffline_pt_ra, rcN, acY
+com.quran.labs.androidquran, rcN
+kjv.bible.kingjamesbible, rcN
+HinKhoj.Dictionary, rcN, acY
+com.scribd.app.reader0, rcN, acY
+com.merriamwebster, rcN, acY
+tv.telepathic.hooked, rcN

@@ -1,0 +1,20 @@
+com.supercell.clashofclans, rcN
+com.supercell.clashroyale, rcN
+com.igg.android.lordsmobile, rcN
+com.ea.game.pvzfree_row, rcN
+com.igg.castleclash, rcN
+com.maxgames.stickwarlegacy, rcN
+com.supercell.boombeach, rcN
+net.wargaming.wot.blitz, rcN
+es.socialpoint.MonsterLegends, rcN
+com.hcg.cok.gp, rcN
+com.machinezone.gow, rcN
+com.socialquantum.acityint, rcN
+air.com.goodgamestudios.empirefourkingdoms, rcN, acY
+com.aa.generaladaptiveapps, rcN
+com.epicwaronline.ms, rcN
+com.longtech.lastwars.gp, rcN
+com.yottagames.mafiawar, rcN
+com.quarterborrowresult.customer, rcN
+com.empire.grow.rome, rcN
+br.com.tapps.bidwars, rcN, acY

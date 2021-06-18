@@ -1,0 +1,20 @@
+com.arcsoft.perfect365, rcN, acY
+com.perfectcorp.ycn, rcN
+com.northpark.beautycamera, rcN
+com.lyrebirdstudio.beauty, rcN
+com.Fashion.Nails.Girls.Game, rcN
+kr.co.company.hwahae, rcY
+com.piupiuapps.hairstyles, rcN
+com.barilab.handmirror.googlemarket, rcN
+jp.hotpepper.android.beauty.hair, rcN, acY
+com.luckystars.hairstylesstepbystep, rcN
+com.jkfantasy.camera.jkpmirrorcamera, rcN
+google.free.icequeen.peachygamesllc, rcN
+com.dsrtech.macho, rcN
+best.photo.app.weddinghairstyles2018, rcN
+com.dsrtech.menhairstyles, rcN
+com.ipsy.mobile.production, dni
+com.ulta, dni
+com.trove, rcN, acY
+br.art.code.meucronogramacapilar, rcN, acY
+pcm.light.crown.photo.editor, rcN

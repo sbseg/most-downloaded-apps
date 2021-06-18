@@ -1,0 +1,20 @@
+com.google.android.projection.gearhead, rcN
+com.samsung.android.app.bikemode, dni
+com.aa.extreme.city.gt.car.stunts, rcN
+com.autoscout24, rcN, acY
+ru.gibdd_pay.app, rcN
+kz.kolesa, rcN, acY
+com.taxsee.taxsee, rcN, acY
+de.mobile.android.app, rcN, acY
+com.devplank.masterplaca, rcN
+com.lelic.speedcam, rcN, acY
+com.offroad.jeep.driving.simulator, rcN
+com.city.coach.bus.simulator.drive, rcN
+com.stormbreakxr.snow.mountain.bike.racing.motocross.race, rcN
+ru.farpost.dromfilter, rcN, acY
+org.reactivephone, rcN, acY
+jabi.pdd2, rcN
+com.girnarsoft.cardekho, rcN, acY
+com.carwale, rcN, acY
+com.gigigo.ipirangaconectcar, rcY
+br.com.icarros.androidapp, rcN, acY

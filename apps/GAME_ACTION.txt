@@ -1,0 +1,20 @@
+com.dts.freefireth, rcN
+com.imangi.templerun2, rcN
+com.tencent.ig, rcN, acY
+com.mobile.legends, rcN
+com.fungames.sniper3d, rcN
+com.nekki.shadowfight, rcN
+com.supercell.brawlstars, rcN, acY
+com.activision.callofduty.shooter, rcN, acY
+air.com.hypah.io.slither, rcN
+com.tencent.iglite, dni
+com.yodo1.crossyroad, rcN
+com.miniclip.bowmasters, rcN
+com.h8games.helixjump, rcN
+com.fdgentertainment.bananakong, rcN
+com.outfit7.talkingtomgoldrun, rcN
+com.miniclip.agar.io, rcN, acY
+com.glu.deerhunt2, dni
+com.gameloft.android.ANMP.GloftM5HM, rcN
+com.kabam.marvelbattle, rcN, acY
+com.playgendary.kickthebuddy, rcN

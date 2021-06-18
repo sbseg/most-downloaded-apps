@@ -1,0 +1,20 @@
+com.naver.linewebtoon, rcN, acY
+mobi.mangatoon.comics.aphone, dni
+com.zalivka.animation2, rcN
+com.nhn.android.webtoon, rcN, acY
+jp.naver.linemanga.android, dni
+com.kauf.talking.baum.TalkingJamesSquirrel, rcN
+com.iconology.comics, rcN, acY
+net.daum.android.webtoon, rcN, acY
+com.appmag.endless.temple.princessfinaljungleozrunfrozen, rcN
+br.com.escolhatecnologia.voztradutor, rcN
+com.webcomics.manga, rcN, acY
+com.energysh.drawshow, rcN, acY
+jp.comico, dni
+jp.kakao.piccoma, dni
+com.rookiestudio.perfectviewer, rcN
+com.marvel.comics, rcN, acY
+com.lezhin.comics, rcN, acY
+com.colorjoy.learn.to.draw.glow.comics, rcN
+com.sundev.memestickers, rcN
+learn.to.draw.glow.cartoon, rcN

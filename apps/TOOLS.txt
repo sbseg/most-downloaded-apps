@@ -1,0 +1,20 @@
+com.google.android.gms, rcY
+com.google.android.googlequicksearchbox, rcN
+com.google.android.marvin.talkback, rcN
+com.google.android.tts, rcN
+com.lenovo.anyshare.gps, rcN, acY
+com.google.android.inputmethod.latin, rcN
+com.google.android.webview, dni
+com.samsung.android.lool, dni
+com.dsi.ant.plugins.antplus, dni
+com.sec.android.app.popupcalculator, dni
+com.sec.android.app.myfiles, dni
+com.sec.android.app.voicenote, dni
+com.samsung.android.mobileservice, dni
+com.google.android.apps.translate, rcN
+com.google.android.apps.nbu.files, rcN
+com.samsung.android.voc, dni
+com.huawei.hwid, dni
+com.google.android.deskclock, rcN
+com.google.ar.core, dni
+com.google.android.calculator, rcN

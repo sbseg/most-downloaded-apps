@@ -1,0 +1,20 @@
+com.canva.editor, rcN, acY
+jp.ne.ibis.ibispaintx.app, rcN
+com.sec.penup, rcN, acY
+com.appsilicious.wallpapers, rcN
+com.vblast.flipaclip, rcN
+com.phone.launcher.lite, rcN
+com.medibang.android.paint.tablet, rcN, acY
+com.eyewind.paperone, rcN
+com.sweetsugar.pencileffectfree, rcN
+com.jdpapps.textt1, rcN
+com.brakefield.painter, rcN
+pl.planmieszkania.android, rcN
+com.fashion.tattoo.name.my.photo.editor, rcN
+com.adobe.spark.post, rcN, acY
+com.tattoo.maker.design.app, rcN
+com.creative.Learn.to.draw.flowers, rcN
+com.redberry.glitterdressa2, rcN
+com.phone.launcher.android, rcN
+air.com.KalromSystems.SandDrawLite, rcN
+com.sweefitstudios.drawgraffiti, rcN

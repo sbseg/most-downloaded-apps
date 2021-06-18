@@ -1,0 +1,20 @@
+com.youmusic.magictiles, rcN
+com.amanotes.beathopper, rcN
+com.gismart.realpianofree, rcN
+com.amanotes.pamadancingroad, rcN
+com.grillgames.guitarrockhero, rcN, acY
+com.eyu.piano, rcN
+com.gismart.guitar, rcN
+com.orange.kidspiano.music.songs, rcN
+com.bigbluebubble.singingmonsters.full, rcN
+com.ubisoft.dance.JustDance, rcN
+air.com.freshplanet.games.WaM, rcN, acY
+com.wordsmobile.musichero, rcN
+com.nojoke.realpianoteacher, rcN
+com.joyjourney.PianoWhiteGo, rcN
+com.gismart.realdrum2free, rcN
+com.studio7775.BeatMP3, rcN
+com.amanotes.db, rcN
+com.Zeeppo.GuitarBand, rcN
+com.pennypop.dance, rcN
+com.studio7775.BeatMP3v2, rcN

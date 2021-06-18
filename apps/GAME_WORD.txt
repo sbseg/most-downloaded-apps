@@ -1,0 +1,20 @@
+com.zynga.words, rcN, acY
+com.fugo.wow, rcN
+de.lotum.whatsinthefoto.es, rcN
+de.lotum.whatsinthefoto.us, rcN
+com.omgpop.dstfree, rcN, acY
+com.fanatee.cody, rcN
+com.quelaba.sopaletras, rcN
+com.word.puzzle.game.connect, rcN
+com.word.game.fun.puzzle.prison.escape.captain, rcN
+com.melimots.WordSearch, rcN
+com.bitmango.go.wordcookies, rcN
+com.zytoona.wordscrush, rcN, acY
+se.maginteractive.wordbrain, rcN
+com.wordgame.words.connect, rcN
+com.peoplefun.wordcross, rcN
+com.andron.crosswords2, rcN
+com.zynga.wwf2.free, rcN, acY
+com.zytoona.lostword2, rcN
+com.hbwares.wordfeud.free, rcN, acY
+com.wordloco.wordchallenge, rcN

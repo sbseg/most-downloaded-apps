@@ -1,0 +1,20 @@
+com.playrix.fishdomdd.gplay, rcN
+com.mind.quiz.brain.out, rcN
+com.zeptolab.ctr.ads, rcN
+com.zeptolab.ctr2.f2p.google, rcN, acY
+com.disney.wheresmywater2_goo, rcN
+com.bitmango.rolltheballunrollme, rcN
+com.king.candycrushjellysaga, rcN
+com.bigduckgames.flow, rcN
+com.differencetenderwhite.skirt, rcN
+com.water.balls, rcN
+com.shootbubble.bubbledexlue, rcN
+com.game5mobile.lineandwater, rcN
+com.supertapx.lovedots, rcN
+com.app.rescuecut, rcN
+net.peakgames.toonblast, rcN
+net.peakgames.amy, rcN
+com.king.bubblewitch3, rcN, acY
+com.europosit.pixelcoloring, rcN
+com.disney.frozensaga_goo, rcN
+com.matchington.mansion, rcN, acY

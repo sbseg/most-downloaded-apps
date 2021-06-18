@@ -1,0 +1,20 @@
+com.google.android.apps.photos, rcN
+com.sec.android.gallery3d, dni
+com.picsart.studio, rcN, acY
+com.linecorp.b612.android, rcN
+com.camerasideas.instashot, rcN
+com.venticake.retrica, rcN
+vStudio.Android.Camera360, rcN
+com.commsource.beautyplus, rcN
+com.cyberlink.youcammakeup, rcN
+com.joeware.android.gpulumera, rcN
+io.faceapp, rcN
+com.cyworld.camera, rcN
+vsin.t16_funny_photo, rcN, acY
+com.cyberlink.youperfect, rcN, acY
+com.zentertain.photoeditor, rcN
+com.cam001.selfie, rcN
+com.lyrebirdstudio.montagenscolagem, rcN
+jp.naver.linecamera.android, rcN
+com.adobe.psmobile, rcN, acY
+com.instagram.boomerang, rcN

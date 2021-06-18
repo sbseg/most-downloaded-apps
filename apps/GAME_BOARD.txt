@@ -1,0 +1,20 @@
+com.ludo.king, rcN
+com.jetstartgames.chess, rcN
+com.pixel.art.coloring.color.number, rcN
+com.superking.parchisi.star, rcN, acY
+uk.co.aifactory.chessfree, rcN
+paint.by.number.pixel.art.coloring.drawing.puzzle, rcN
+com.moonfrog.ludo.club, rcN, acY
+pl.lukok.draughts, rcN
+com.LoopGames.Domino, rcN
+com.dimcoms.checkers, rcN
+com.tictactoe.wintrino, rcN
+com.mobirix.SnakeGame, rcN
+com.blacklightsw.ludo, rcN
+net.peakgames.Yuzbir, rcN
+com.cjenm.ModooMarbleKakao, dni
+net.peakgames.OkeyPlus, rcN, acY
+com.fungamesforfree.colorfy, rcN
+air.com.buffalo_studios.newflashbingo, rcN, acY
+air.com.bitrhymes.bingo, rcN, acY
+com.ahoygames.okey, rcN, acY

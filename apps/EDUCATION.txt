@@ -1,0 +1,20 @@
+com.duolingo, rcN, acY
+com.microblink.photomath, rcN
+com.google.android.apps.classroom, rcN
+com.byjus.thelearningapp, rcN, acY
+com.youdao.hindict, rcN, acY
+com.samsung.sree, dni
+com.memrise.android.memrisecompanion, rcN, acY
+com.CultureAlley.japanese.english, rcN, acY
+co.brainly, rcN, acY
+co.gradeup.android, dni
+com.babbel.mobile.android.en, rcN, acY
+com.ruangguru.livestudents, rcN, acY
+com.brainbow.peak.app, rcN, acY
+com.unacademyapp, rcN, acY
+example.matharithmetics, rcN
+com.busuu.android.enc, rcN, acY
+com.joytunes.simplypiano, rcN, acY
+com.fusionprojects.edmodo, rcN, acY
+com.wonder, rcN, acY
+com.quizlet.quizletandroid, rcN, acY

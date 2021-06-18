@@ -1,0 +1,20 @@
+com.flipkart.android, rcN, acY
+com.contextlogic.wish, rcN, acY
+com.alibaba.aliexpresshd, rcN, acY
+com.mercadolibre, rcN, acY
+com.lazada.android, rcN, acY
+in.amazon.mShop.android.shopping, dni
+com.shopee.id, dni
+com.ebay.mobile, rcN, acY
+com.myntra.android, rcN, acY
+com.joom, rcN, acY
+com.olx.southasia, dni
+com.snapdeal.main, rcN, acY
+club.fromfactory, rcN, acY
+com.amazon.mShop.android.shopping, rcN, acY
+com.zzkko, rcN, acY
+com.alibaba.intl.android.apps.poseidon, rcN, acY
+com.google.zxing.client.android, rcN, acY
+com.tokopedia.tkpd, dni
+com.allgoritm.youla, rcN, acY
+com.avito.android, rcN, acY

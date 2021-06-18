@@ -1,0 +1,20 @@
+com.google.android.apps.maps, rcN
+com.google.android.street, rcN
+com.booking, rcN, acY
+com.google.earth, rcN
+com.whereismytrain.android, dni
+com.tripadvisor.tripadvisor, rcN, acY
+com.google.android.apps.navlite, dni
+com.google.android.apps.mapslite, dni
+com.gojek.app, rcN, acY
+com.comuto, rcN, acY
+com.ixigo.train.ixitrain, rcN, acY
+com.mapswithme.maps.pro, rcN, acY
+ru.yandex.yandexnavi, rcN, acY
+com.airbnb.android, rcN, acY
+ru.dublgis.dgismobile, rcN, acY
+mobi.wifi.toolbox, rcN
+com.makemytrip, rcN, acY
+com.goibibo, rcN, acY
+com.trivago, rcN, acY
+com.yellowpages.android.ypmobile, dni

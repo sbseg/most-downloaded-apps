@@ -1,0 +1,20 @@
+com.google.android.youtube, rcN
+com.google.android.videos, rcN
+com.mxtech.videoplayer.ad, rcN
+video.like, rcN, acY
+com.google.android.apps.youtube.mango, dni
+com.quvideo.xiaoying, rcN, acY
+com.ss.android.ugc.trill, dni
+com.xvideostudio.videoeditor, rcN
+com.utorrent.client, rcN
+com.nexstreaming.app.kinemasterfree, rcN
+com.mobilemotion.dubsmash, rcN, acY
+org.videolan.vlc, rcN
+com.stupeflix.replay, rcN
+com.kwai.video, rcN
+com.uc.vmate, dni
+com.zhiliaoapp.musically.go, rcN, acY
+all.video.downloader.allvideodownloader, rcN, acY
+free.video.downloader.freevideodownloader, rcN, acY
+com.motorola.MotGallery2, dni
+com.samsung.android.videolist, dni

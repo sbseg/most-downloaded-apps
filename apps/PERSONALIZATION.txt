@@ -1,0 +1,20 @@
+com.sec.android.app.launcher, dni
+net.zedge.android, rcN, acY
+com.gau.go.launcherex, rcN
+com.apusapps.launcher, rcN
+com.lbe.parallel.intl, rcN
+com.whatsapp.wallpaper, dni
+home.solo.launcher.free, rcN
+com.jb.gokeyboard, rcN
+com.ogqcorp.bgh, rcN, acY
+com.yandex.browser, rcN, acY
+com.google.android.apps.wallpaper, rcN
+com.motorola.actions, dni
+com.huawei.android.thememanager, dni
+com.motorola.moto, dni
+com.teslacoilsw.launcher, rcN
+com.xinmei365.font, rcN
+com.simejikeyboard, rcN
+com.herman.ringtone, rcN
+com.transsion.XOSLauncher, rcN
+com.wallpaperscraft.wallpaper, rcN

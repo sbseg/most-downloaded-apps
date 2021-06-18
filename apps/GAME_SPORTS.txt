@@ -1,0 +1,20 @@
+com.miniclip.eightballpool, rcN, acY
+com.firsttouchgames.dls3, dni
+com.ea.gp.fifamobile, rcN
+com.firsttouchgames.story, rcN
+com.miniclip.carrom, rcN, acY
+com.billiards.city.pool.nation.club, rcN
+com.touchtao.soccerkinggoogle, rcN
+com.miniclip.footballstrike, rcN
+com.forthblue.pool, rcN
+com.threed.bowling, rcN
+com.mgc.runnergame, rcN
+com.junerking.archery, rcN
+jp.konami.pesam, rcN
+eu.nordeus.topeleven.android, rcN, acY
+com.ea.game.easportsufc_row, rcN
+com.nextwave.wcc2, rcN, acY
+com.ea.gp.nbamobile, rcN, acY
+com.miniclip.soccerstars, rcN, acY
+com.dnddream.headsoccer.android, rcN
+com.mobirix.fishinghook, rcN

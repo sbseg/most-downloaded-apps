@@ -1,0 +1,20 @@
+com.zoosk.zoosk, rcN, acY
+com.okcupid.okcupid, rcN, acY
+com.jaumo.prime, rcN, acY
+com.hotornot.app, rcN, acY
+dating.app.chat.flirt.wgbcv, rcN, acY
+com.hitwe.android, rcN, acY
+com.jaumo.casual, rcN, acY
+ru.mobstudio.andgalaxy, rcN, acY
+com.match.android.matchmobile, dni
+com.hily.app, rcN, acY
+ru.fotostrana.sweetmeet, rcN, acY
+com.matchlatam.parperfeitoapp, rcN, acY
+com.choiceoflove.dating, rcN, acY
+com.dating.android, rcN, acY
+com.once.android, rcN, acY
+com.ipart.android, rcN, acY
+de.appfiction.yocutiegoogle, rcN, acY
+mingle.android.mingle2, rcN, acY
+co.hinge.app, dni
+com.planetromeo.android.app, rcN, acY

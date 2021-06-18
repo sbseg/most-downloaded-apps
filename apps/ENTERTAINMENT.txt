@@ -1,0 +1,20 @@
+com.google.android.play.games, rcN
+com.netflix.mediaclient, dni
+in.startv.hotstar, dni
+com.ismaker.android.simsimi, rcN, acY
+tv.twitch.android.app, rcN, acY
+com.outfit7.talkingtom2free, dni
+com.bitstrips.imoji, rcN, acY
+com.jio.jioplay.tv, dni
+com.digidust.elokence.akinator.freemium, rcN, acY
+com.tv.v18.viola, dni
+com.outfit7.talkingangelafree, rcN
+com.outfit7.talkinggingerfree, rcN
+com.amazon.avod.thirdpartyclient, rcN, acY
+com.outfit7.talkingben, rcN
+com.baviux.voicechanger, rcN
+com.sonyliv, dni
+com.outfit7.talkingnewsfree, rcN
+com.google.android.apps.youtube.kids, rcN
+com.graymatrix.did, rcN, acY
+tv.accedo.airtel.wynk, dni

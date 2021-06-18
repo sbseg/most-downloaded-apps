@@ -1,0 +1,20 @@
+codematics.universal.tv.remote.control, rcN
+com.zillow.android.zillowmap, dni
+com.houzz.app, rcN, acY
+com.ivuu, rcN, acY
+com.move.realtor, rcN, acY
+com.tekoia.sure.activities, rcN, acY
+com.urbanclap.urbanclap, rcN, acY
+com.trulia.android, rcN, acY
+es.roid.and.trovit, rcN
+com.alexvas.dvr, rcN
+com.chbreeze.jikbang4a, rcN, acY
+kr.co.station3.dabang, rcN
+fr.anuman.HomeDesign3D, rcN
+com.idealista.android, rcN, acY
+com.anuntis.fotocasa, rcN, acY
+ru.cian.main, rcN
+com.autodesk.homestyler, rcN, acY
+com.trulia.android.rentals, rcN, acY
+net.bucketplace, rcN, acY
+com.warden.cam, rcN

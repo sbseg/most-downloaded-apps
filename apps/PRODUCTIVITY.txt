@@ -1,0 +1,20 @@
+com.google.android.apps.docs, rcN
+com.microsoft.office.word, rcN, acY
+com.microsoft.office.excel, rcN, acY
+com.microsoft.skydrive, rcN, acY
+com.microsoft.office.powerpoint, rcN, acY
+com.samsung.android.email.provider, dni
+com.google.android.calendar, rcN
+com.google.android.apps.cloudprint, dni
+com.sec.app.samsungprintservice, rcN
+com.adobe.reader, rcN, acY
+com.touchtype.swiftkey, rcN
+com.hp.android.printservice, dni
+com.dropbox.android, rcN, acY
+com.google.android.apps.docs.editors.docs, rcN,
+com.google.android.keep, rcN
+com.google.android.apps.docs.editors.sheets, rcN
+com.microsoft.office.onenote, rcN, acY
+com.google.android.apps.docs.editors.slides, rcN
+com.policydm, dni
+com.samsung.android.app.notes, dni

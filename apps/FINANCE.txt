@@ -1,0 +1,20 @@
+net.one97.paytm, rcN, acY
+ru.sberbankmobile, rcN, acY
+com.google.android.apps.nbu.paisa.user, dni
+com.phonepe.app, rcN, acY
+com.paypal.android.p2pmobile, rcN, acY
+com.google.android.apps.walletnfcrel, dni
+br.com.bb.android, rcN, acY
+br.gov.caixa.tem, rcY
+com.bradesco, rcN, acY
+br.com.gabba.Caixa, rcN, acY
+com.mobikwik_new, rcY
+in.org.npci.upiapp, dni
+com.iqoption, rcN, acY
+com.sbi.lotusintouch, rcY
+br.gov.caixa.auxilio, rcN, acY
+com.csam.icici.bank.imobile, rcN, acY
+com.sbi.SBIFreedomPlus, rcY
+com.chase.sig.android, rcN, acY
+com.itau, rcN, acY
+com.santander.app, rcN, acY

@@ -1,0 +1,20 @@
+com.linkedin.android, rcN, acY
+com.samsung.knox.securefolder, dni
+com.facebook.pages.app, rcN, acY
+com.mobisystems.office, rcN, acY
+com.indeed.android.jobsearch, rcN, acY
+com.mobisystems.fileman, rcN, acY
+com.google.android.apps.meetings, rcN, acY
+us.zoom.videomeetings, rcY, acY
+com.ubercab.driver, rcN, acY
+com.microsoft.teams, rcN, acY
+com.netqin.ps, rcN, acY
+com.ticno.olymptrade, rcN, acY
+com.asus.ia.asusapp, rcN, acY
+com.dataviz.docstogo, rcN
+com.metropcs.service.vvm, rcN, acY
+naukriApp.appModules.login, rcN, acY
+com.cisco.webex.meetings, rcN, acY
+com.adobe.scan.android, rcN, acY
+ru.hh.android, rcN, acY
+net.slideshare.mobile, rcN, acY

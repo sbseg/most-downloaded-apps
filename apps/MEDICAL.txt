@@ -1,0 +1,20 @@
+com.aranoah.healthkart.plus, dni
+com.lbrc.PeriodCalendar, rcN, acY
+app.bpjs.mobile, rcN, acY
+tr.com.innova.fta.mhrs, rcN, acY
+com.webmd.android, rcN, acY
+com.alodokter.android, rcN, acY
+com.ada.app, rcN, acY
+com.medlife.customer, dni
+com.linkdokter.halodoc.android, rcN, acY
+com.phonegap.rxpal, dni
+com.NetmedsMarketplace.Netmeds, rcN, acY
+com.goodrx, dni
+ru.mobiledimension.kbr, rcN, acY
+com.smsrobot.period, rcN, acY
+com.practo.fabric, rcN, acY
+com.docsapp.patients, dni
+com.AnatomyLearning.Anatomy3DViewer3, rcN
+com.ladytimer.ovulationcalendar, rcN
+com.lybrate.phoenix, rcN, acY
+com.medscape.android, rcN, acY

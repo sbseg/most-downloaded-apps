@@ -1,0 +1,20 @@
+com.whatsapp, rcN, acY
+com.android.chrome, rcN, acY
+com.google.android.gm, rcN, acY
+com.facebook.orca, rcN, acY
+com.skype.raider, rcN, acY
+com.google.android.apps.tachyon, rcN
+com.google.android.talk, rcN
+com.google.android.apps.messaging, rcN
+com.sec.android.app.sbrowser, rcN, acY
+com.sec.spp.push, dni
+com.dsi.ant.service.socket, dni
+com.UCMobile.intl, rcN, acY
+com.viber.voip, rcN, acY
+com.truecaller, rcN, acY
+jp.naver.line.android, rcN, acY
+com.imo.android.imoim, rcN, acY
+org.telegram.messenger, rcN, acY
+com.facebook.mlite, rcN, acY
+com.google.android.ims, dni
+com.bbm, dni

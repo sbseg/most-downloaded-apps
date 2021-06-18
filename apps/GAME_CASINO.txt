@@ -1,0 +1,20 @@
+com.zynga.livepoker, rcN, acY
+air.com.playtika.slotomania, rcN, acY
+com.octro.teenpatti, rcN, acY
+com.leftover.CoinDozer, rcN
+com.teenpatti.hd.gold, rcN, acY
+com.pacificinteractive.HouseOfFun, rcN
+com.murka.scatterslots, rcN
+com.luckyday.app, rcN, acY
+com.williamsinteractive.jackpotparty, rcN, acY
+com.playstudios.myvegas, rcN
+com.huuuge.casino.slots, rcN
+com.doubleugames.DoubleUCasino, rcN, acY
+com.droidhen.game.poker, rcN, acY
+com.playtika.caesarscasino, rcN, acY
+com.genina.android.blackjack.view, rcN
+com.neptune.domino, rcN
+com.dragonplay.slotcity, rcN
+com.dummy.poker, rcN, acY
+com.selfawaregames.acecasino, rcN
+com.igg.pokerdeluxe, rcN, acY

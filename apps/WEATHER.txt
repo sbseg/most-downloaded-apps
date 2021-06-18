@@ -1,0 +1,20 @@
+com.weather.Weather, rcN
+com.asus.weathertime, dni
+com.miui.weather2, dni
+com.devexpert.weather, rcN
+com.accuweather.android, rcN
+de.wetteronline.wetterapp, rcN
+com.droid27.transparentclockweather, rcN
+com.handmark.expressweather, rcN
+com.sonymobile.xperiaweather, dni
+com.htc.Weather, dni
+com.yahoo.mobile.client.android.weather, rcN
+com.macropinch.swan, rcN
+com.aws.android, rcN, acY
+com.chanel.weather.forecast.accu, rcN
+com.apalon.weatherlive.free, rcN
+com.ilmeteo.android.ilmeteo, rcN
+com.graph.weather.forecast.channel, rcN
+ru.yandex.weatherplugin, rcN, acY
+aplicacion.tiempo, rcN
+com.exovoid.weather.app, rcN

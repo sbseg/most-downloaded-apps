@@ -1,0 +1,20 @@
+com.ticketmaster.mobile.android.na, dni
+com.stubhub, dni
+com.greetingsisland.sam, rcN, acY
+com.seatgeek.android, dni
+com.gametime.gametime, rcN, acY
+com.vividseats.android, rcN, acY
+com.kpuripemilu2019, rcN
+com.todaytix.TodayTix, rcN, acY
+com.sympla.tickets, rcN, acY
+com.topRingtones.TikTok, rcN
+draziw.leftday.widget, rcN
+countdown.reminder.widget, rcN
+com.letsdogether.dogether, rcN
+splendid.invitation.maker, rcN, acY
+com.conceptworks.spontacts, rcN, acY
+com.tickpickllc.ceobrien.tickpick, rcN
+com.chic.colorfuldiscolights2, rcN, acY
+com.sony.psexp2016, rcN, acY
+com.ingresse.ticketbooth, rcN, acY
+sk.ipndata.meninyamenafree, rcN

@@ -1,0 +1,20 @@
+com.htc.sense.hsp, dni
+com.felicanetworks.mfw.a.boot, dni
+com.mxtech.ffmpeg.v6_vfp, dni
+com.mxtech.ffmpeg.v7_neon, dni
+com.mxtech.ffmpeg.v7_vfpv3d16, dni
+com.google.samples.apps.cardboarddemo, rcN
+com.mxtech.ffmpeg.v6, dni
+com.mxtech.ffmpeg.v5te, dni
+com.mxtech.ffmpeg.tegra3, dni
+jp.co.softbank.wispr.froyo, dni
+com.felicanetworks.mfw.a.main, dni
+dz.condor.Condorpassport, rcN
+inc.trilokia.pubgfxtool.free, rcN
+com.farproc.wifi.connecter, dni
+org.kde.necessitas.ministro, dni
+galaxys9ringtones.ringtonesfors9.notifications, rcN
+com.studio.coolmaster.coolerapp.cooling, rcN
+com.famousringtones2017.populartones.bestringtones, rcN
+com.quanticapps.quranandroid, rcN, acY
+com.equalizer.volume.music.bass.booster.tool, dni

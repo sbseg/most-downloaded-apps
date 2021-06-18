@@ -1,0 +1,20 @@
+com.application.zomato, rcN, acY
+com.ubercab.eats, rcN, acY
+br.com.brainweb.ifood, rcN, acY
+in.swiggy.android, rcN, acY
+com.yelp.android, rcN, acY
+com.mcdonalds.mobileapp, rcY
+com.dominospizza, rcN, acY
+com.global.foodpanda.android, dni
+com.grability.rappi, rcN, acY
+com.dd.doordash, rcN, acY
+com.nzn.tdg, rcN, acY
+com.starbucks.mobilecard, rcN, acY
+com.yum.pizzahut, dni
+com.joelapenna.foursquared, rcN, acY
+com.inovel.app.yemeksepeti, dni
+com.Dominos, dni
+com.mcdonalds.app, dni
+com.grubhub.android, dni
+com.mcdo.mcdonalds, rcN, acY
+com.sei.android, rcN, acY

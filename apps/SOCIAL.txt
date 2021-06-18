@@ -1,0 +1,20 @@
+com.facebook.katana, rcN, acY
+com.instagram.android, rcN, acY
+com.snapchat.android, rcY
+com.zhiliaoapp.musically, rcN, acY
+com.facebook.lite, rcN, acY
+com.google.android.apps.plus, rcN
+com.vkontakte.android, rcN, acY
+com.badoo.mobile, dni
+com.yy.hiyo, dni
+sg.bigo.live, rcN, acY
+com.sgiggle.production, dni
+com.tumblr, rcN, acY
+com.bsb.hike, dni
+ru.ok.android, rcN, acY
+app.buzz.share, dni
+in.mohalla.sharechat, rcN
+com.ss.android.ugc.boom, rcN
+com.pof.android, rcN, acY
+com.myyearbook.m, rcN, acY
+com.askfm, rcN, acY

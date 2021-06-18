@@ -1,0 +1,20 @@
+com.pinterest, rcN, acY
+com.tinder, rcN, acY
+com.google.android.apps.chromecast.app, rcN
+com.samsung.android.spay, dni
+com.samsung.android.oneconnect, rcN
+com.samsung.oh, dni
+com.bitsmedia.android.muslimpro, rcN
+com.ftw_and_co.happn, rcN, acY
+com.life360.android.safetymapd, rcN, acY
+com.adpog.diary, rcN, acY
+com.srin.indramayu, dni
+Com.sktelecom.minit, rcN
+com.masarat.salati, rcN
+org.reyfasoft.reinavalera1960, rcN
+com.AppRocks.now.prayer, rcN
+com.mobilexsoft.ezanvakti, rcN
+com.balancehero.truebalance, dni
+free.mobile.internet.data.recharge, dni
+com.dramaton.slime, rcN
+com.hm.goe, dni

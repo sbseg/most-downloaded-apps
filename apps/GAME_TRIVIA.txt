@@ -1,0 +1,20 @@
+com.etermax.preguntados.lite, rcN, acY
+com.unicostudio.braintest, rcN
+logos.quiz.companies.game, rcN
+com.scimob.ninetyfour.percent, rcN
+com.quizup.core, rcN, acY
+com.orangenose.trick, rcN, acY
+com.xmonetize.quizzland, rcN
+quess.song.music.pop.quiz, dni
+lemmingsatwork.quiz, rcN
+se.feomedia.quizkampen.de.lite, rcN, acY
+com.ninetyfour.degrees.app, rcN
+com.freepuzzlegames.logoguessing.quiz, rcN
+com.gartic.Gartic, rcN, acY
+com.etermax.kingdoms, rcN, acY
+com.works.timeglass.logoquiz, rcN
+com.etermax.trivia.preguntados2, rcN, acY
+fr.two4tea.fightlist, rcN, acY
+qureka.live.game.show, dni
+com.guilardi.eusei, rcN
+guess.the.brand.logo.quiz.icomania, rcN

@@ -1,0 +1,20 @@
+com.cricbuzz.android, rcN
+com.espn.score_center, rcN, acY
+com.gotv.nflgamecenter.us.lite, rcN, acY
+de.motain.iliga, rcN, acY
+com.scores365, rcN, acY
+com.mobilefootie.wc2010, rcN, acY
+com.sofascore.results, rcN, acY
+com.livescore, rcN
+com.fifa.fifaapp.android, rcN, acY
+com.kokteyl.goal, rcN
+com.resultadosfutbol.mobile, rcN, acY
+com.activaweb.matchendirect, rcN
+com.kokteyl.mackolik, rcN
+es.lfp.gi.main, rcN, acY
+com.july.cricinfo, rcN, acY
+com.fivemobile.thescore, rcN, acY
+com.pl.premierleague, rcN, acY
+com.dazn, rcN, acY
+com.digiturk.ligtv, rcN
+com.uefa.ucl, rcN, acY

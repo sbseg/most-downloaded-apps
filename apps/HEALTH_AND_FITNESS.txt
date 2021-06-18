@@ -1,0 +1,20 @@
+com.sec.android.app.shealth, rcN, acY
+com.popularapp.periodcalendar, rcN
+nic.goi.aarogyasetu, rcY
+homeworkout.homeworkouts.noequipment, rcN
+com.huawei.health, rcN
+com.myfitnesspal.android, rcN, acY
+org.iggymedia.periodtracker, rcN
+com.xiaomi.hm.health, rcN, acY
+com.runtastic.android, rcN, acY
+sixpack.sixpackabs.absworkout, rcN
+com.fitbit.FitbitMobile, rcN, acY
+loseweight.weightloss.workout.fitness, rcN
+com.google.android.apps.fitness, rcN
+com.nike.plusgps, rcN, acY
+com.clue.android, rcN, acY
+com.endomondo.android, rcN, acY
+cc.pacer.androidapp, rcN, acY
+com.strava, rcN, acY
+com.northpark.drinkwater, rcN
+com.popularapp.thirtydayfitnesschallenge, rcN

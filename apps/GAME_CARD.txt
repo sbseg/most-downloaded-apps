@@ -1,0 +1,20 @@
+com.mobilityware.solitaire, rcN
+com.playtika.wsop.gp, rcN, acY
+com.matteljv.uno, rcN, acY
+com.kathleenOswald.solitaireGooglePlay, rcN
+io.teslatech.callbreak, rcN
+jp.konami.duellinks, rcN
+com.blizzard.wtcg.hearthstone, rcN, acY
+com.tfgco.games.strategy.free.castlecrush, rcN
+com.dragonplay.liveholdempro, rcN
+com.king.pyramidsolitairesaga, rcN
+net.supertreat.solitaire, dni
+com.gsn.android.tripeaks, rcN
+com.mobilityware.spider, rcN
+com.igg.bzbee.deckheroes, rcN
+com.blyts.trucolite.activities, rcN
+air.ru.crazypanda.wpcm, rcN, acY
+com.konami.ygodgtest, rcN
+com.spacegame.solitaire.basic, rcN
+com.lemongame.klondike.solitaire, rcN
+com.rstgames.durak, rcN

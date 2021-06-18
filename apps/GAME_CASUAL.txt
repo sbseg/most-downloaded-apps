@@ -1,0 +1,20 @@
+com.king.candycrushsaga, rcN, acY
+com.outfit7.mytalkingtomfree, rcN
+com.outfit7.mytalkingangelafree, rcN
+me.pou.app, rcN
+com.supercell.hayday, rcN
+com.gameloft.android.ANMP.GloftDMHM, rcN
+com.playrix.gardenscapes, rcN, acY
+com.king.farmheroessaga, rcN
+com.playrix.homescapes, rcN, acY
+com.playrix.township, rcN
+com.king.candycrushsodasaga, rcN, acY
+com.ea.game.pvz2_row, rcN, acY
+com.rovio.baba, rcN
+com.ea.game.simpsons4_row, rcN, acY
+com.moonactive.coinmaster, rcN, acY
+com.king.petrescuesaga, rcN, acY
+com.midasplayer.apps.bubblewitchsaga2, rcN, acY
+com.outfit7.mytalkingtom2, rcN
+com.outfit7.talkingtom, rcN
+com.outfit7.mytalkinghank, rcN
